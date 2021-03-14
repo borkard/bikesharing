@@ -2,7 +2,7 @@
 
 ## Overview of Project
 This project focused on analyzing New York City Citi Bike trip history data from August 2019 and producing interactive Tableau visualizations to summarize the data.
-Twelve visualizations of the data were created in Tableau Public to analyze the trips histories by gender and time. Seven of the twelve visualizations were included in a Tableau Story as shown in the results. Prior to creating the visualizations, some of the data was cleaned using Jupyter Notebooks and Pandas.
+Twelve visualizations of the data were created in Tableau Public to analyze the trip histories by gender and time. Seven of the twelve visualizations were included in a Tableau Story as shown in the results. Prior to creating the visualizations, some of the data was cleaned using Jupyter Notebooks and Pandas.
 
 The link to the Tableau Public story is below:
 https://public.tableau.com/profile/diana.borkar#!/vizhome/citibike_challenge_16155985817030/CitibikeStory
