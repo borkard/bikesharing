@@ -10,13 +10,13 @@ https://public.tableau.com/profile/diana.borkar#!/vizhome/citibike_challenge_161
 ## Results
 The below images are the visualizations from the Tableau Story of the Citi Bike Analysis.
 
-*August Peak Hours:*
+### August Peak Hours:
 ![August_Peak_Hours](https://github.com/borkard/bikesharing/blob/main/Images/August_Peak_Hours.PNG)
 
 The above graph is a bar graph that represents the peak hours for Citi Bikes trips. The Number of Trips is displayed on the x-axis and the hour of the start-time is displayed on the y-axis. Based on this visualization, it appears that there are peaks in Citi Bike usage during the commuting hours of 8-9am and 5-6pm. In the early hours of the morning, 2-3am, not many trips are taken.
 
 
-###Trips by Weekday per Hour:
+### Trips by Weekday per Hour:
 ![Trips_Weekday_Hour](https://github.com/borkard/bikesharing/blob/main/Images/Trips_Weekday_Hour.PNG)
 
 The visualization above displays the frequency of trips for each day of the week and time of day. According to the visualization, the most trips are taken during 5-7pm on a Thursday, which is also a popular time for most other weekdays. Many trips also occur during Saturday afternoons. There are very few trips before 5am on weekdays. This visualization can be filtered by the Weekday of Stoptime.
