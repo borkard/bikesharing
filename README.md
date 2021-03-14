@@ -53,8 +53,6 @@ The above visualization shows the number of trips by type of user (Customer or S
 
 
 ## Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
 Based on the results and visualizations of the Citi Bike trip history data from August 2019, it seems that a majority of the trips are taken by males that are subscribers and most trips occur during commuting hours on weekdays, especially Thursdays. Most Citi Bike trips are under 10 minutes and hardly go past one hour. As the commuting times tend to be the most popular, repairs and maintenance can be done in the early hours of the morning when there are not many bikes in demand.
 
 With the given dataset, I would create two additional visualizations to look at the usertype (customers or subcribers) by age, as well as the number of trips by age and gender to understand who to target.
